@@ -1,2 +1,0 @@
-Hi world
-This is my first GitHub upload.
